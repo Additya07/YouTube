@@ -55,11 +55,11 @@ justify-content: space-between;
 .left-icons > .logo-container 
 {
     padding:1rem ;
+    cursor: pointer;
 }
 
 .logo-container > img 
 {
-    width: auto;
     height:1.5rem;
 }
 
@@ -431,12 +431,12 @@ justify-content: space-between;
     
     .left-icons > .logo-container 
     {
+        cursor: pointer;
     }
     
     .logo-container > img 
     {
-        width: auto;
-        height:1.5rem;
+        height:1rem;
     }
     
     
@@ -575,9 +575,7 @@ justify-content: space-between;
     .main-body  > .navigation-bar 
     {
         /* border:1px solid red; */
-        display: none;
-        
-    
+        display: none;        
     }
     
     
